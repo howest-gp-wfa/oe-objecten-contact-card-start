@@ -1,11 +1,11 @@
 # oe-oebjecten-contact-card-start
 
 ## Opgave
-Je krijgt alvast een contact-kaartje waarom je je gegevens kan invullen.
+Je krijgt alvast een contact-kaartje waarin je je gegevens kan invullen.
 Maak een object met je eigen contactgegevens en geef deze weer op het contact-kaartje.
 
 ## Vereisten
-* Je maakt een **JavaScript object** met de gegevens volgende gegevens over jezelf en gebruikt deze om het het kaartje op te bouwen:
+* Je maakt een **JavaScript object** met de onderstaande gegevens over jezelf en gebruikt deze om het het kaartje op te bouwen:
     * Je naam
     * Je telefoonnummer
     * Je e-mailadres
