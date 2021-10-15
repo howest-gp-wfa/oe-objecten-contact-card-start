@@ -1,23 +1,23 @@
 "use strict";
 
-window.addEventListener("load", Initialize);
+window.addEventListener("load", initialize);
 
-var username, email, telephone, address;
+let hdgUsername, ancEmail, anchTelephone, parAddress;
 
-var user;
+let user;
 
-function Initialize() {
-    username = document.querySelector("#name");
-    email = document.querySelector("#email");
-    telephone = document.querySelector("#telephone");
-    address = document.querySelector("#address");
+function initialize() {
+    hdgUsername = document.querySelector("#name");
+    ancEmail = document.querySelector("#email");
+    anchTelephone = document.querySelector("#telephone");
+    parAddress = document.querySelector("#address");
 
     //create your own user object here ...
 
-    LoadCard();
+    loadCard();
 
 }
 
-function LoadCard() {
+function loadCard() {
     //assign your user object's info to the HTML elements here ...
 }
