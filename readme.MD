@@ -1,4 +1,4 @@
-# oe-oebjecten-contact-card-start
+# oe-objecten-contact-card-start
 
 ## Opgave
 Je krijgt alvast een contact-kaartje waarin je je gegevens kan invullen.
